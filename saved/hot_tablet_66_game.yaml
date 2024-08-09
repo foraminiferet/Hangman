@@ -1,0 +1,17 @@
+---
+letters_used:
+- a
+- i
+selected_word: projector
+displayed_word:
+- _
+- r
+- _
+- _
+- e
+- _
+- t
+- _
+- r
+game_state: true
+wrong_guesses: 2

@@ -1,0 +1,15 @@
+---
+letters_used:
+- t
+selected_word: disagree
+displayed_word:
+- _
+- _
+- _
+- a
+- _
+- r
+- e
+- e
+game_state: true
+wrong_guesses: 1
