@@ -1,6 +1,9 @@
+# frozen_string_literal: true
+
 require_relative 'text_content'
 require_relative 'game_save'
 require 'json'
+# Functionality for the gameplay(game-logic)
 class Game
   include TextContent
   include GameSave

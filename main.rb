@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# The main from which we play a new game or load a game
 require_relative 'lib/game'
 require_relative 'lib/text_content'
 require_relative 'lib/game_save'

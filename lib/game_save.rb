@@ -1,5 +1,9 @@
+# frozen_string_literal: true
+
 require 'yaml'
 require_relative 'game'
+
+# Serialization (and deserialization) of an object to save game state
 module GameSave
   def save_game
     Dir.mkdir 'saved' unless Dir.exist? 'saved'
